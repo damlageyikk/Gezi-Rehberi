@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097679508731",
+    "project_id": "gezilerim-a5a96",
+    "storage_bucket": "gezilerim-a5a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097679508731:android:a79796f5be324beb8d4c5e",
+        "android_client_info": {
+          "package_name": "com.gezirehberi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097679508731-dd0a51cbsb4u6m1h4ra3t0vq94ua4dat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIsPSyifeVTVWx8wBeAKcVTM-sdsx9ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097679508731-dd0a51cbsb4u6m1h4ra3t0vq94ua4dat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
